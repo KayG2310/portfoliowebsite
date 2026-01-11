@@ -44,7 +44,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 w-full z-50 backdrop-blur bg-white/70 border-b border-gray-200">
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         {/* Logo / Name */}
-        <span className="font-semibold text-lg">Kay</span>
+        <span className="font-semibold text-lg">KG</span>
 
         {/* Desktop Nav */}
         <div className="hidden md:flex gap-8">
