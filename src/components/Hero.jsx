@@ -16,7 +16,7 @@ const Hero = () => {
           </p>
   
           <div className="mt-12 flex space-x-6">
-            <a href="https://drive.google.com/file/d/1AX4H2V1q7MOmRSwDTg2YmRqOjqnnkIPs/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1rFbbtGINDfAvSIfnIlGMyByUXYqTB0I3/view?usp=sharing" target="_blank">
             <button className="px-6 py-3 bg-appleBlue text-white rounded-full text-sm font-medium hover:opacity-90 transition">
               View Resume
             </button>
