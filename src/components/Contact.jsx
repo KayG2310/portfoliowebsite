@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Mail, Linkedin, Github } from "lucide-react";
+import { Mail, LinkedinIcon} from "lucide-react";
 
 const Contact = () => {
   return (
@@ -54,7 +54,7 @@ const Contact = () => {
                        transition"
           >
             <div className="flex items-center gap-4">
-              <Linkedin className="w-5 h-5 text-appleBlue" />
+              <LinkedinIcon className="w-5 h-5 text-appleBlue" />
               <span className="font-medium">LinkedIn</span>
             </div>
             <span className="text-sm text-appleGray group-hover:translate-x-1 transition">
